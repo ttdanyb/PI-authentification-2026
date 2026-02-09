@@ -1,6 +1,8 @@
 /**
  * @file auth.c
  * @brief Implémentation de la bibliothèque d'authentification simple basée sur un CSV.
+ * 
+ * Ajout de ma modification 
  */
 
 #include "auth.h"
